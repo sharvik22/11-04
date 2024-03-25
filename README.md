@@ -30,8 +30,13 @@ $ pip install pika
 
 Для закрепления материала можете попробовать модифицировать скрипты, чтобы поменять название очереди и отправляемое сообщение.
 
----
 ### Решение 2.
+![alt text](https://github.com/sharvik22/11-04/blob/main/images/2-1.png)
+![alt text](https://github.com/sharvik22/11-04/blob/main/images/2-2.png)
+![alt text](https://github.com/sharvik22/11-04/blob/main/images/2-3.png)
+![alt text](https://github.com/sharvik22/11-04/blob/main/images/2-4.png)
+
+---
 
 ### Задание 3. Подготовка HA кластера
 

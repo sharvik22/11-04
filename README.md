@@ -8,7 +8,6 @@
 *Итогом выполнения домашнего задания будет приложенный скриншот веб-интерфейса RabbitMQ.*
 
 ### Решение 1.
-![alt text](https://github.com/sharvik22/11-03.md/blob/main/images/Screenshot_1.png)
 ![alt text](https://github.com/sharvik22/11-04/blob/main/images/1.png)
 ---
 

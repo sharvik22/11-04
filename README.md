@@ -9,7 +9,7 @@
 
 ### Решение 1.
 ![alt text](https://github.com/sharvik22/11-03.md/blob/main/images/Screenshot_1.png)
-
+![alt text](https://github.com/sharvik22/11-04/blob/main/images/1.png)
 ---
 
 ### Задание 2. Отправка и получение сообщений

@@ -72,6 +72,16 @@ $ rabbitmqadmin get queue='hello'
 *Приложите скриншот результата работы второго скрипта.*
 
 ### Решение 3.
+![alt text](https://github.com/sharvik22/11-04/blob/main/images/3.png)
+![alt text](https://github.com/sharvik22/11-04/blob/main/images/3-1.png)
+![alt text](https://github.com/sharvik22/11-04/blob/main/images/3-2.png)
+![alt text](https://github.com/sharvik22/11-04/blob/main/images/3-3.png)
+![alt text](https://github.com/sharvik22/11-04/blob/main/images/3-4.png)
+![alt text](https://github.com/sharvik22/11-04/blob/main/images/3-5.png)
+![alt text](https://github.com/sharvik22/11-04/blob/main/images/3-6.png)
+![alt text](https://github.com/sharvik22/11-04/blob/main/images/3-7.png)
+
+---
 
 ## Дополнительные задания (со звёздочкой*)
 Эти задания дополнительные, то есть не обязательные к выполнению, и никак не повлияют на получение вами зачёта по этому домашнему заданию. Вы можете их выполнить, если хотите глубже шире разобраться в материале.
